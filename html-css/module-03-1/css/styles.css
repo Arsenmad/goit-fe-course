@@ -26,8 +26,12 @@ body{
     width: 470px;
     margin: 0 auto;
     border: 1px solid #626262;
-    padding: 20px 30px;
-    
+    padding: 20px 30px;        
+}
+.wrapper article{
+ width: 420px;
+ margin-left: 25px;
+
 }
 article h4{
     text-align: left;
@@ -62,5 +66,5 @@ article p{
      padding: 10px;
 }
 .margin{
-    margin-right: 60px;
+    margin-right: 50px;
 }
