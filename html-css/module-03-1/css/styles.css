@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+body{
+    width: 900px;
+    margin: 0 auto;
+}
+.navigation{  
+    margin: 0 auto;
+    margin-top: 77px;
+}
+.navigation ul{
+    list-style: none;
+}
+.navigation ul li{
+    display:inline-block;
+}
+.navigation ul li a{
+    text-decoration: none;
+    margin-right: 50px;
+    font-family: 'Playfair Display', serif;
+}
+.navigation ul li a:hover{
+    color: #626262;
+}
