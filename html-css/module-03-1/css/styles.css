@@ -54,10 +54,12 @@ article p{
 .wrapper2{
     width: 960px;
     margin: 0 auto;
+    border: 1px solid #626262;
 }
 .wrapper2 article{
     display:inline-block;
-    width: 420px;      
+    width: 420px;    
+     padding: 10px;
 }
 .margin{
     margin-right: 60px;
