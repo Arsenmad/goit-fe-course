@@ -26,7 +26,7 @@ nav ul{
 .site-navigation li{
     display:inline-block;
 }
-.site-navigation а{
+.site-navigation a{
     text-decoration: none;
     text-transform: uppercase;
     font-size: 14px;
