@@ -33,7 +33,8 @@ nav ul{
     line-height: 24px;
     color: #626262;
     margin-right: 100px;
-    padding: 28px;    
+    padding: 28px; 
+    font-size: 14px;   
 }
 .site-navigation a:hover{
     color: #03a9f4;
