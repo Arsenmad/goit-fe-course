@@ -28,7 +28,7 @@ nav ul{
     margin-right: 70px;
 }
 .site-navigation li:last-child{
-    margin-right: 0;
+    margin-right: 0; 
 }
 .site-navigation a{
     text-decoration: none;
@@ -36,8 +36,7 @@ nav ul{
     font-size: 14px;
     line-height: 24px;
     color: #626262;   
-    padding: 28px; 
-    font-size: 14px;   
+    padding: 28px;       
 }
 .site-navigation a:hover{
     color: #03a9f4;
