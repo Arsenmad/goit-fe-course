@@ -48,6 +48,7 @@ nav ul{
 .content-article{
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 .content-article-item:nth-child(odd){
     margin-right: 30px;
