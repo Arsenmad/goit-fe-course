@@ -11,6 +11,9 @@ body{
     margin: 0 auto;
     padding-top: 44px;
 }
+.page-header{
+    margin-bottom: 70px;
+}
 .site-navigation{
     padding: 0;
     text-align: center;
@@ -40,6 +43,7 @@ nav ul{
 }
 .visually-hiddenvisuall{
     visibility: hidden;
+    margin: 0;
 }
 .content-article{
     list-style: none;
