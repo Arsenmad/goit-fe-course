@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body{
-    width: 1200px;
     margin: 0 auto;
     font-family: 'Playfair Display', serif;
 }
@@ -11,9 +10,6 @@ body{
     width: 900px;
     margin: 0 auto;
     padding-top: 44px;
-}
-.page-header{
-    margin-bottom: 70px;
 }
 .site-navigation{
     padding: 0;
@@ -42,23 +38,40 @@ nav ul{
 .site-navigation a:hover{
     color: #03a9f4;
 }
-.posts{
-    display: none;
+.visually-hiddenvisuall{
+    visibility: hidden;
 }
 .content-article{
     list-style: none;
     padding: 0;
     margin: 0;
+    margin-bottom: 56px;
 }
 .content-article-item:nth-child(odd){
     margin-right: 50px;
+}
+.content-article-item:nth-child(even){
+    margin-left: -4px;
 }
 .content-article-item:nth-child(n+3){
     margin-top: 140px;
 }
 .content-article-item{
     width: 420px;
-    display: inline-block;   
+    display: inline-block;
+    
+}
+.content-article-item img {
+    margin-bottom: 30px;
+}
+.content-article-item h2{
+    color:  #626262;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 36px;
+    margin: 0;
+    margin-bottom: 32px;
 }
 .aritcle-item-name{
     text-align: left;
@@ -68,27 +81,27 @@ nav ul{
     color: #b4ad9e;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;
+    margin: 0;
+    margin-bottom: 32px;
 }
-article h2{
-    color:  #626262;
-    font-size: 30px;
-    font-weight: 400;
-    text-align: left;
-    line-height: 36px;
-}
-article p{
+.content-article-item p{
     text-align: left;
     font-size: 14px;
     line-height: 24px;
+    margin: 0;
 }
 .load{
     padding: 23px 36px;
-    display: inline-block;
+    display: block;
     background-color: #ffffff;
     font-size: 20px;
     line-height: 24px;
     border: 1px solid #000000;
-    margin: 56px auto;
+    margin: 0 auto;
     text-align: center;
     color: #626262;
+    cursor: pointer;
+}
+button:hover{
+    color: #03a9f4;
 }
