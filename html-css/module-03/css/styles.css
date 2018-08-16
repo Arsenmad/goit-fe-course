@@ -56,7 +56,6 @@ nav ul{
 .content-article-item:nth-child(n+3){
     margin-top: 140px;
 }
-
 .content-article-item{
     width: 420px;
     display: inline-block;   
