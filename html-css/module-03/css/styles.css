@@ -51,7 +51,7 @@ nav ul{
     margin: 0;
 }
 .content-article-item:nth-child(odd){
-    margin-right: 30px;
+    margin-right: 50px;
 }
 .content-article-item:nth-child(n+3){
     margin-top: 140px;
