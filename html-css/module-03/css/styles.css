@@ -67,16 +67,7 @@ nav ul{
     
 }
 .content-article-item img {
-    margin-bottom: 30px;
-}
-.content-article-item h2{
-    color:  #626262;
-    font-size: 30px;
-    font-weight: 400;
-    text-align: left;
-    line-height: 36px;
-    margin: 0;
-    margin-bottom: 32px;
+    margin: 0 0 30px 0;
 }
 .aritcle-item-name{
     text-align: left;
@@ -85,15 +76,22 @@ nav ul{
     line-height: 17px;
     color: #b4ad9e;
     font-family: 'Ubuntu', sans-serif;
-    font-weight: 400;
-    margin: 0;
-    margin-bottom: 32px;
+    font-weight: 400;    
+    margin: 0 0 32px 0;
 }
+.content-article-item h2{
+    color:  #626262;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 36px;
+    margin: 0 0 32px 0;       
+}
+
 .content-article-item p{
     text-align: left;
     font-size: 14px;
-    line-height: 24px;
-    margin: 0;
+    line-height: 24px;    
 }
 .load{
     padding: 23px 36px;
