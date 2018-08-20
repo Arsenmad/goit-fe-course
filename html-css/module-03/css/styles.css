@@ -85,13 +85,14 @@ nav ul{
     font-weight: 400;
     text-align: left;
     line-height: 36px;
-    margin: 0 0 32px 0;       
+    margin-bottom: 32px;       
 }
 
 .content-article-item p{
     text-align: left;
     font-size: 14px;
-    line-height: 24px;    
+    line-height: 24px; 
+    margin: 0;   
 }
 .load{
     padding: 23px 36px;
