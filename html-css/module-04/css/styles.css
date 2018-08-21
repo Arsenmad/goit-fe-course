@@ -151,6 +151,7 @@ body{
     width: 347px;
     float: left;
     margin-right: 30px;
+    overflow: hidden;
 }
 .news-item:last-child{
     margin-right: 0;
