@@ -179,7 +179,7 @@ body{
     color: #555252;
     margin-top: 30px;
     text-align: left;
-    margin-bottom: 25px;
+    margin-bottom: 40px;   
 }
 .news-button{
     width: 160px;
@@ -194,5 +194,6 @@ body{
     color: #f6fbfa;
     text-transform: capitalize;
     cursor: pointer;
+    display: block;  
 }
 
