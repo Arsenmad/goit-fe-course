@@ -42,10 +42,21 @@ nav ul{
 .site-navigation a:hover{
     color: #03a9f4;
 }
-.visually-hiddenvisuall{
-    visibility: hidden;
-    margin: 0;
+.visually-hidden:not(:focus):not(:active),
+input[type="checkbox"].visually-hidden,
+input[type="radio"].visually-hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border:0;
+    padding: 0;
+    white-space:nowrap;
+    clip-path:inset(100%);
+    clip: rect(0 0 0 0);
+    overflow:hidden;
 }
+
 .content-article{
     list-style: none;
     padding: 0;
@@ -54,9 +65,9 @@ nav ul{
     font-size: 0;   
 }
 .content-article-item:nth-child(odd){
-    margin-right: 50px;
+    margin-right: 60px;
 }
-.content-article-item:nth-child(1n+5){
+.content-article-item:nth-last-child(-1n+2){
     margin-bottom: 0;
 }
 .content-article-item img {
@@ -72,6 +83,9 @@ nav ul{
     font-family: 'Ubuntu', sans-serif;
     font-weight: 400;    
     margin: 0 0 32px 0;
+}
+.content-article-item-text{
+    margin: 0;   
 }
 .content-article-item h2{
     color:  #626262;

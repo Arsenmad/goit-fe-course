@@ -151,7 +151,7 @@ body{
     width: 347px;
     float: left;
     margin-right: 30px;
-    overflow: hidden;
+    overflow: hidden;   
 }
 .news-item:last-child{
     margin-right: 0;
@@ -179,11 +179,11 @@ body{
     color: #555252;
     margin-top: 30px;
     text-align: left;
-    margin-bottom: 40px;   
+    margin-bottom: 40px;
+    letter-spacing: -0.3px;   
 }
-.news-button{
-    width: 160px;
-    height: 50px;
+
+.news-button{     
     margin: 17px 0 17px 0;
     border: none;
     border-radius: 3px;
@@ -192,8 +192,10 @@ body{
     font-size: 16px;
     font-weight: 300;
     color: #f6fbfa;
-    text-transform: capitalize;
-    cursor: pointer;
-    display: block;  
+    text-transform: capitalize;   
+    text-decoration: none;
+    display: block;
+    padding: 18px 0;
+    width: 160px;
 }
 
