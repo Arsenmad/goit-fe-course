@@ -40,8 +40,7 @@ body{
 .menu {
     list-style: none;
     padding: 0;
-    margin: 0; 
-    font-size: 0;
+    margin: 0;
 }
 .menu-link {
     text-transform: uppercase;
