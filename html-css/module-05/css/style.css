@@ -73,7 +73,7 @@ body{
     position: relative;
 }
 
-.slider::before{
+.slider::after{
     position: absolute;
     content: "";
     top: 0;
