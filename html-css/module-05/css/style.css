@@ -137,7 +137,7 @@ body{
     position: absolute;
     cursor: pointer;
     line-height: 11px;
-    font-size: 90px;/* размер шрифта в макете 100рх*/
+    font-size: 70px;/* размер шрифта в макете 100рх*/
     color: #ffffff;
     background-color: #1abc9c;
     opacity: 0.9;
