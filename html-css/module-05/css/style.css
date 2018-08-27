@@ -130,14 +130,14 @@ body{
     object-fit: cover;
 }
 .prew,.next {
-    font-family: "Pe-icon-7", sans-serif;
+
     border: none;
     display: inline-block;
-    padding-bottom: 20px;
+  
     position: absolute;
     cursor: pointer;
     line-height: 11px;
-    font-size: 70px;/* размер шрифта в макете 100рх*/
+    font-size: 100px;
     color: #ffffff;
     background-color: #1abc9c;
     opacity: 0.9;
