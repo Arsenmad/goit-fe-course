@@ -49,14 +49,13 @@ body{
     color: #0f0101;
     font-weight: 900;
     font-size: 14px;
-    padding: 20px;
-}
-.menu-link:last-child{
-    padding-right: 0;
 }
 .menu-item {
     float: left;
-    margin-left: 30px;
+    margin-left: 33px;
+}
+.menu-item:first-child{
+    margin-left: 0;
 }
 .menu-link:hover {
     color: #1abc9c;
@@ -230,14 +229,9 @@ body{
     height: 35px;
     background-color:#8c8c8c;
 }
-.img-card:hover .name{
-    background-color: #1abc9c;
-}
+
 .product-item:hover .name{
     background-color: #1abc9c;
-}
-.img-card:hover .price{
-    background-color: #7fd9c7;
 }
 .product-item:hover .price{
     background-color: #7fd9c7;
