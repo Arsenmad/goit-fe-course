@@ -71,12 +71,12 @@ body{
     text-decoration: none;
     color: #0f0101;
     font-weight: 800;
-    font-size: 14px;  
-    display: inline-block;       
+    font-size: 14px;         
 }
 .menu-item {
     float: left;
-    margin-right: 30px;    
+    margin-right: 30px; 
+    display: inline-block;    
 }
 .menu-item:last-child{
     margin-right: 0;
