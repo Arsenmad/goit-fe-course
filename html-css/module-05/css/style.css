@@ -40,6 +40,12 @@ input[type="radio"].visually-hydden {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+img{
+    display:block;
+    max-width: 100%;
+    height: auto;
+}
+
 /*HEADER*/
 
 .page-header{
@@ -162,8 +168,8 @@ input[type="radio"].visually-hydden {
     color: #ffffff;
     background-color: #1abc9c;
     opacity: 0.9;
-    width: 102px;
-    height: 99px;
+    width: 104px;
+    height: 104px;
 }
 .prew {
     top: 46%;
