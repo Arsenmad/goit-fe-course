@@ -18,7 +18,7 @@ body {
 
 .wrapper {
     text-align: center;
-    width: 1140px;
+    width: 1170px;
     margin: 0 auto;
 }
 
@@ -130,7 +130,7 @@ img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-49%, -210%);
+    transform: translate(-47%, -210%);
     font-size: 60px;
     line-height: 72px;
     font-weight: 700;
@@ -143,7 +143,7 @@ img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-77%, -40%);
+    transform: translate(-75%, -40%);
 }
 
 .tour-options li {
@@ -193,13 +193,13 @@ img {
 
 .prew {
     top: 46%;
-    left: 18%;
+    left: 17%;
     transform: translate(-58%, -50%);
 }
 
 .next {
     top: 46%;
-    left: 83%;
+    left: 84%;
     transform: translate(-50%, -50%);
 }
 
