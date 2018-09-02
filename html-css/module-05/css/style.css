@@ -180,9 +180,10 @@ img {
 }
 
 .slide-title{
-    font-size: 60px;
+    font-size: 57px; /*размер шрифта в макете 60?*/
     line-height: 82px;
     font-weight: 900;
+    letter-spacing: -1.2px;
 }
 .slide-title-orange{
     color: #ff7200;
