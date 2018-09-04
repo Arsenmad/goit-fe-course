@@ -11,7 +11,6 @@ html {
 }
 
 body {
-    width: 1600px;
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
 }
@@ -126,7 +125,7 @@ img {
     opacity: 0.9;
     position: absolute;
     top: 46%;
-    transform: translateY(-50%);
+    transform: translate(-14%,-54%);
     color: #ffffff;
     font-size: 100px;
     cursor: pointer;
@@ -150,7 +149,7 @@ img {
     position: absolute;
     top: 44%;
     left: 16%;
-    transform: translateY(-50%);
+    transform: translate(-2%, -55%);
     list-style: none;
 }
 
@@ -283,15 +282,14 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
 }
+
 .overlay{
     position: absolute;
     opacity: 0;
     background-color: rgba(0, 0, 0, 0.5);
     width: 235px;
     height: 270px;
-    z-index: 2;
     top: 10px;
     left: 10px;
 }
@@ -310,16 +308,27 @@ img {
     width: 50px;
     height: 50px;
 }
-
-.item img {
-    padding-left: 10px;
+.item a{
+    width: 24px;
+    height: 24px;
+    color: #ffffff;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.like{
+    background-image: url("../img/icons/heart.png");
+}
+.mix{
+    background-image: url("../img/icons/arrows.png");
+}
+.clock{
+    background-image: url("../img/icons/clock.png");
 }
 
-a.buy {
+.buy {
     display: inline-block;
     border: 1px solid #ffffff;
-    text-transform: uppercase;
-    text-decoration: none;
     color: #ffffff;
     width: 165px;
     height: 50px;
@@ -327,7 +336,6 @@ a.buy {
     background-image: url("../img/icons/cart.png");
     background-repeat: no-repeat;
     background-position: center;
-
 }
 
 a.buy:hover {
