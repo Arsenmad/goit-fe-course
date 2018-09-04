@@ -125,7 +125,7 @@ img {
     opacity: 0.9;
     position: absolute;
     top: 46%;
-    transform: translate(-14%,-54%);
+    transform: translate(-15%,-54%);
     color: #ffffff;
     font-size: 100px;
     cursor: pointer;
@@ -292,6 +292,7 @@ img {
     height: 270px;
     top: 10px;
     left: 10px;
+    border: 1px solid #323232;
 }
 .item:nth-child(3){
     margin-right: 0;
