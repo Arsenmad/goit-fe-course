@@ -269,12 +269,11 @@ img {
     background-color: #7fd9c7;
 }
 
-.product-item:hover .submenu {
-    opacity: 1;
-}
+.product-item:hover .submenu,
 .product-item:hover .overlay{
     opacity: 1;
 }
+
 
 .submenu {
     opacity: 0;
@@ -325,17 +324,10 @@ a.buy {
     width: 165px;
     height: 50px;
     margin-top: 8px;
-    font-size: 14px;
-    text-align: center;
-    line-height: 18px;
-    padding-right: 10px;
-    padding-top: 14px;
-}
+    background-image: url("../img/icons/cart.png");
+    background-repeat: no-repeat;
+    background-position: center;
 
-.icon {
-    margin-right: 15px;
-    float: left;
-    padding-left: 8px;
 }
 
 a.buy:hover {
