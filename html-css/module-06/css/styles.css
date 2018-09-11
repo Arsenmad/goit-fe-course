@@ -81,14 +81,24 @@ img {
     font-weight: 400;
     padding: 10px;
     display: block;
-    border-bottom: 3px solid rgba(0, 0, 0, 0);
     transition: all 200ms linear;
 }
-
+.menu a::after{
+    border-bottom: 3px solid #f38181;
+    content: '';
+    display: block;
+    padding-top: 10px;
+    opacity: 0;
+    transform: translateY(-100%);
+    transition:  all 200ms linear;
+}
+.menu a:hover::after{
+    opacity: 1;
+    transform: translateY(0)
+}
 .menu a:hover,
 .menu a:focus {
     color: #f38181;
-    border-bottom: 3px solid #f38181;
 }
 
 /*CONTENT*/
@@ -96,8 +106,6 @@ img {
 main {
     flex-grow: 1;
 }
-
-
 
 .section-title {
     display: block;
