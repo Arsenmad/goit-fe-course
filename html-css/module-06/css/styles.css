@@ -108,6 +108,9 @@ img {
 main {
     flex-grow: 1;
 }
+main header{
+    margin-bottom: 110px;
+}
 
 .section-title {
     display: block;
@@ -119,23 +122,21 @@ main {
 }
 
 .section-subtitle {
-    display: block;
     text-align: center;
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     margin: 0;
-    margin-bottom: 90px;
 }
 
 .section-subtitle::after {
     border-bottom: 3px solid #f38181;
     content: '';
     width: 60px;
-    display: block;
     margin: 0 auto;
-    padding-top: 40px;
+    display: block;
+    padding-top: 50px;
 }
 
 .services {
@@ -216,6 +217,7 @@ main {
     border-bottom: 1px solid #e5e5e5;
 }
 
+
 .declaration {
     font-size: 15px;
     line-height: 24px;
@@ -224,6 +226,7 @@ main {
     width: 940px;
     display: block;
     margin: 0 auto;
+    padding-top: 96px;
     text-align: center;
     margin-bottom: 95px;
 }
