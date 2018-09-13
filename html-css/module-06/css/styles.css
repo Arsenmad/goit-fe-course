@@ -28,6 +28,7 @@ input[type="radio"].visually-hydden {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -82,18 +83,19 @@ img {
     display: block;
     transition: all 200ms linear;
 }
-.menu a::after{
+
+.menu a::after {
     border-bottom: 3px solid #f38181;
     content: '';
     display: block;
     padding-top: 10px;
     opacity: 0;
     transform: translateY(-100%);
-    transition:  all 200ms linear;
+    transition: all 200ms linear;
 }
 
 .menu a:hover::after,
-.menu a:focus::after{
+.menu a:focus::after {
     opacity: 1;
     transform: translateY(0)
 }
@@ -108,7 +110,8 @@ img {
 main {
     flex-grow: 1;
 }
-main header{
+
+main header {
     margin-bottom: 110px;
 }
 
@@ -128,15 +131,17 @@ main header{
     font-weight: 700;
     text-transform: uppercase;
     margin: 0;
+
 }
 
 .section-subtitle::after {
-    border-bottom: 3px solid #f38181;
+    background-color: #f38181;
     content: '';
+    height: 3px;
     width: 60px;
     margin: 0 auto;
     display: block;
-    padding-top: 50px;
+    margin-top: 42px;
 }
 
 .services {
@@ -217,18 +222,16 @@ main header{
     border-bottom: 1px solid #e5e5e5;
 }
 
-
 .declaration {
     font-size: 15px;
     line-height: 24px;
     font-weight: 400;
     color: #999999;
     width: 940px;
-    display: block;
     margin: 0 auto;
-    padding-top: 96px;
     text-align: center;
-    margin-bottom: 95px;
+    padding-top: 46px;
+
 }
 
 .cards {
