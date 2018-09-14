@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-07/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="66" column="81" lean-forward="false" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
+            <state relative-caret-position="155">
+              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -265,12 +265,20 @@
       <workItem from="1536738983783" duration="958000" />
       <workItem from="1536752485764" duration="22350000" />
       <workItem from="1536831761443" duration="13529000" />
-      <workItem from="1536919206286" duration="4323000" />
+      <workItem from="1536919206286" duration="6352000" />
     </task>
+    <task id="LOCAL-00001" summary="form">
+      <created>1536933329006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536933329006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306720000" />
+    <option name="totallyTimeSpent" value="308749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -349,6 +357,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="form" />
+    <option name="LAST_COMMIT_MESSAGE" value="form" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -668,7 +678,7 @@
         <state relative-caret-position="1360">
           <caret line="80" column="143" lean-forward="false" selection-start-line="80" selection-start-column="143" selection-end-line="80" selection-end-column="143" />
           <folding>
-            <element signature="e#7177#7183#0" expanded="true" />
+            <element signature="e#7177#7183#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -683,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-07/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="66" column="81" lean-forward="false" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
+        <state relative-caret-position="155">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
           <folding />
         </state>
       </provider>
