@@ -186,10 +186,6 @@ main header {
     color: #ffffff;
 }
 
-footer .section-subtitle {
-    margin-bottom: 7.7rem;
-}
-
 .users-message-information {
     display: flex;
     flex-wrap: wrap;
