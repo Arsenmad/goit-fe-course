@@ -25,8 +25,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-07/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="-1631">
+              <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -64,6 +64,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Ital</find>
+      <find>scri</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -273,7 +274,7 @@
       <workItem from="1536752485764" duration="22350000" />
       <workItem from="1536831761443" duration="13529000" />
       <workItem from="1536919206286" duration="14972000" />
-      <workItem from="1537009741313" duration="3386000" />
+      <workItem from="1537009741313" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -300,10 +301,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320755000" />
+    <option name="totallyTimeSpent" value="321050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17755532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -713,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-07/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="-1631">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="26" />
           <folding />
         </state>
       </provider>
