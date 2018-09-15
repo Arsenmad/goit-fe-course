@@ -45,15 +45,6 @@
 }
 
 @font-face {
-    font-family: 'Amaranth';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Amaranth Regular'), local('Amaranth-Regular'),
-    url('../fonts/amaranth-v8-latin-regular.woff2') format('woff2'),
-    url('../fonts/amaranth-v8-latin-regular.woff') format('woff');
-}
-
-@font-face {
     font-family: 'Ubuntu';
     font-style: italic;
     font-weight: 400;
