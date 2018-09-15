@@ -277,14 +277,12 @@ button:focus {
 
 input:required:focus:valid,
 textarea:required:focus:valid {
-    outline: 0;
-    border: 0.2rem solid #3cd358;
+    outline: 0.2rem solid #3cd358;
 }
 
 input:required:focus:invalid,
 textarea:required:focus:invalid {
-    outline: 0;
-    border: 0.2rem solid #ee2a2f;;
+    outline: 0.2rem solid #ee2a2f;;
 }
 
 .field:focus::placeholder {
