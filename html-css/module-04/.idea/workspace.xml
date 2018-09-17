@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-07/index.html" afterPath="$PROJECT_DIR$/../module-07/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-07/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+            <state relative-caret-position="629">
+              <caret line="64" column="86" lean-forward="false" selection-start-line="64" selection-start-column="86" selection-end-line="64" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -270,7 +269,7 @@
       <workItem from="1537009741313" duration="7271000" />
       <workItem from="1537091683413" duration="1209000" />
       <workItem from="1537128981850" duration="231000" />
-      <workItem from="1537185462529" duration="632000" />
+      <workItem from="1537185462529" duration="933000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -297,7 +296,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326712000" />
+    <option name="totallyTimeSpent" value="327013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
@@ -710,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-07/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="63" column="41" lean-forward="true" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        <state relative-caret-position="629">
+          <caret line="64" column="86" lean-forward="false" selection-start-line="64" selection-start-column="86" selection-end-line="64" selection-end-column="86" />
           <folding />
         </state>
       </provider>
