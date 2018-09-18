@@ -15,15 +15,10 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
-.wrapper {
-    padding-top: 5rem;
-    width: 140rem;
-    margin: 0 auto;
-}
-
 .container {
     width: 94rem;
     margin: 0 auto;
+    padding-top: 5rem;
 }
 
 /*Header*/
@@ -73,7 +68,6 @@ body {
 /*section titles*/
 
 .section-title {
-    display: block;
     text-align: center;
     font-size: 4rem;
     text-transform: uppercase;
@@ -90,13 +84,10 @@ body {
     font-size: 1.8rem;
     font-family: 'Ubuntu', sans-serif;
     font-style: italic;
+    margin: 0;
 }
 
 /*content*/
-
-main {
-    flex-grow: 1;
-}
 
 main header {
     margin-bottom: 7.5rem;
@@ -125,29 +116,29 @@ main header {
     border-width: 0.3rem;
     border-color: #fed136;
     border-radius: 50%;
-    background-repeat: no-repeat;
-    background-position: center;
     width: 7.2rem;
     min-height: 7.1rem;
     margin: 0 auto;
     margin-bottom: 2rem;
+    padding-top: 1.2rem;
 }
 
-.first {
-    background-image: url('../img/icons/Icon-Basket.png');
+.first::before{
+    content: url('../img/icons/Icon-Basket.png');
+}
+.second::before{
+    content: url('../img/icons/Icon-Laptop.png');
+}
+.third::before{
+    content: url('../img/icons/Icon-Locked.png');
 }
 
-.second {
-    background-image: url('../img/icons/Icon-Laptop.png');
-}
-
-.third {
-    background-image: url('../img/icons/Icon-Locked.png');
-}
 
 .article {
     text-align: center;
+
 }
+
 
 .name-services {
     color: #222222;
@@ -173,7 +164,6 @@ main header {
 /*contact section*/
 
 .wrapper-contact {
-    min-width: 140rem;
     min-height: 67.5rem;
     background-color: #222222;
     background-image: url("../img/Map Image.png");
