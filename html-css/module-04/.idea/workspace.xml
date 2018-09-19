@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-07/css/style.css" afterPath="$PROJECT_DIR$/../module-07/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-07/index.html" afterPath="$PROJECT_DIR$/../module-07/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,7 +24,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../module-07/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="461">
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-07/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+            <state relative-caret-position="563">
+              <caret line="60" column="113" lean-forward="false" selection-start-line="60" selection-start-column="113" selection-end-line="60" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -97,8 +96,8 @@
         <option value="$PROJECT_DIR$/../module-07/css/fonts.css" />
         <option value="$PROJECT_DIR$/../module-08/index.html" />
         <option value="$PROJECT_DIR$/../module-08/css/style.css" />
-        <option value="$PROJECT_DIR$/../module-07/index.html" />
         <option value="$PROJECT_DIR$/../module-07/css/style.css" />
+        <option value="$PROJECT_DIR$/../module-07/index.html" />
       </list>
     </option>
   </component>
@@ -294,7 +293,7 @@
       <workItem from="1537128981850" duration="231000" />
       <workItem from="1537185462529" duration="1527000" />
       <workItem from="1537263731035" duration="15610000" />
-      <workItem from="1537356281766" duration="10437000" />
+      <workItem from="1537356281766" duration="10630000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -321,7 +320,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353654000" />
+    <option name="totallyTimeSpent" value="353847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
@@ -726,18 +725,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../module-07/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../module-07/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="220" column="1" lean-forward="true" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-07/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="60" column="113" lean-forward="false" selection-start-line="60" selection-start-column="113" selection-end-line="60" selection-end-column="113" />
           <folding />
         </state>
       </provider>
