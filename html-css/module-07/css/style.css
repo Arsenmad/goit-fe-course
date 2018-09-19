@@ -110,34 +110,24 @@ main header {
 .service {
     text-align: center;
     flex-basis: calc(33.333% - 2.4rem);
+    content: "";
+    display: block;
+    min-height: 7.3rem;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.article{
+    padding-top: 2rem;
 }
 
-.icon {
-    border-style: solid;
-    border-width: 0.3rem;
-    border-color: #fed136;
-    border-radius: 50%;
-    width: 7.2rem;
-    min-height: 7.1rem;
-    margin: 0 auto;
-    margin-bottom: 2rem;
-    padding-top: 1.2rem;
+.basket::before {
+    content: url("../img/icons/Icon-Basket.png");
 }
-
-.first::before{
-    content: url('../img/icons/Icon-Basket.png');
+.laptop::before{
+    content: url("../img/icons/Icon-Laptop.png");
 }
-.second::before{
-    content: url('../img/icons/Icon-Laptop.png');
-}
-.third::before{
-    content: url('../img/icons/Icon-Locked.png');
-}
-
-
-.article {
-    text-align: center;
-
+.lock::before{
+    content: url("../img/icons/Icon-Locked.png");
 }
 
 
