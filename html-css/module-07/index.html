@@ -57,12 +57,10 @@
                     <p class="section-subtitle">Proin iaculis purus consequat sem cure.</p>
                 </header>
                 <form class="users-message-information" action="#" method="get">
-                    <fieldset class="wrapper-contact-data">
-                        <ul class="form">
-                            <li><input class="element field" type="text" name="user-name" placeholder="your name*"  required></li>
-                            <li><input class="element field" type="email" name="user-email" placeholder="your email*" required></li>
-                            <li><input class="element field" type="text" name="message-subject" placeholder="subject"></li>
-                        </ul>
+                    <fieldset class="wrapper-contact-data left-column">
+                            <input class="user-name" placeholder="Your Name&#42;" name="name" autofocus required pattern="^[a-zA-Z]+$" type="text">
+                            <input class="user-email" placeholder="Your E-Mail&#42;" type="email" name="e-mail" required>
+                            <input class="subject" placeholder="subject" name="Subject" type="text">
                     </fieldset>
                     <textarea class="message element field" name="message" placeholder="your message*" required></textarea>
                     <button class="button" type="submit">send message</button>
