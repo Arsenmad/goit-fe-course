@@ -116,18 +116,19 @@ main header {
     background-repeat: no-repeat;
     background-position: top;
 }
+
 .article{
-    padding-top: 2rem;
+    padding-top: 9rem;
 }
 
-.basket::before {
-    content: url("../img/icons/Icon-Basket.png");
+.basket{
+    background-image: url("../img/icons/Icon-Basket.png");
 }
-.laptop::before{
-    content: url("../img/icons/Icon-Laptop.png");
+.laptop{
+    background-image: url("../img/icons/Icon-Laptop.png");
 }
-.lock::before{
-    content: url("../img/icons/Icon-Locked.png");
+.lock{
+    background-image: url("../img/icons/Icon-Locked.png");
 }
 
 
