@@ -184,6 +184,7 @@ main header {
     margin-right: 3rem;
     min-height: 21rem;
     border: none;
+    width: 45.5rem;
 }
 
 .element {
@@ -203,9 +204,7 @@ input {
     min-height: 20.7rem;
     resize: none;
 }
-.left-column {
-    width: 45.5rem;
-}
+
 .user-name,
 .user-email,
 .subject {
