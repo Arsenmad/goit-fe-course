@@ -130,7 +130,17 @@ main header {
 .lock{
     background-image: url("../img/icons/Icon-Locked.png");
 }
-
+/*вариант 2
+.basket::before {
+    content: url("../img/icons/Icon-Basket.png");
+}
+.laptop::before{
+    content: url("../img/icons/Icon-Laptop.png");
+}
+.lock::before{
+    content: url("../img/icons/Icon-Locked.png");
+}
+*/
 
 .name-services {
     color: #222222;
