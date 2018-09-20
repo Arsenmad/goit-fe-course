@@ -193,12 +193,6 @@ main header {
     font-size: 1.4rem;
 }
 
-input {
-    min-width: 45.5rem;
-    border: none;
-    height: 5rem;
-}
-
 .message {
     min-width: 45.5rem;
     min-height: 20.7rem;
@@ -208,9 +202,12 @@ input {
 .user-name,
 .user-email,
 .subject {
+    min-width: 45.5rem;
+    border: none;
+    height: 5rem;
     min-height: 5.4rem;
     border-radius: 0.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2.2rem;
     text-indent: 2rem;
     outline: none;
     font-family: 'Montserrat';
