@@ -47,8 +47,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-08/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            <state relative-caret-position="325">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -299,7 +299,7 @@
       <workItem from="1537562688002" duration="653000" />
       <workItem from="1537697011546" duration="712000" />
       <workItem from="1537728902928" duration="6498000" />
-      <workItem from="1537786267589" duration="5605000" />
+      <workItem from="1537786267589" duration="5805000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -326,7 +326,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371737000" />
+    <option name="totallyTimeSpent" value="371937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
@@ -734,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-08/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        <state relative-caret-position="325">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
           <folding />
         </state>
       </provider>
