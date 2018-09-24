@@ -1,0 +1,11 @@
+.background {
+    background-image: url(../img/background1.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 540px;
+}
+
+@media (min-resolution: 192dpi), (min-resolution: 2dppx) {
+    .background-box {
+        background-image: url('../img/background1@2x.png');
+    }
