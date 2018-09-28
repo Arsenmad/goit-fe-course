@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/background3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/icons/airplane.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/icons/cup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/icons/flask.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/icons/tv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img2-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img3-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img4-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-08/img/img4.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-08/css/style.css" afterPath="$PROJECT_DIR$/../module-08/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-08/index.html" afterPath="$PROJECT_DIR$/../module-08/index.html" />
     </list>
@@ -47,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-08/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="391">
+              <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -57,8 +38,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../module-08/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="1037">
+              <caret line="145" column="21" lean-forward="true" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -307,7 +288,7 @@
       <workItem from="1538031537032" duration="49000" />
       <workItem from="1538037491762" duration="21856000" />
       <workItem from="1538121304579" duration="1733000" />
-      <workItem from="1538130109837" duration="3772000" />
+      <workItem from="1538130109837" duration="8688000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -334,10 +315,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444895000" />
+    <option name="totallyTimeSpent" value="449811000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1924" height="1056" extended-state="1" />
+    <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17755532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -732,16 +713,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-08/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="1037">
+          <caret line="145" column="21" lean-forward="true" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-08/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
