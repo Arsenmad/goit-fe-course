@@ -9,6 +9,13 @@ html {
     box-sizing: inherit;
 }
 
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
 a {
     text-decoration: none;
     color: #ffffff;
@@ -20,12 +27,11 @@ li {
 
 .btn {
     padding: 1rem;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     font-size: 1.4rem;
     border: 3px solid #ff4e50;
     border-radius: 3rem;
-    box-sizing: border-box;
     display: inline-block;
     width: 28rem;
 }
@@ -34,7 +40,7 @@ li {
     background-color: #ff4e50;
 }
 
-/***********HEADER*********/
+/*HEADER*/
 
 header {
     background: url("../img/bg.png"), rgba(0, 0, 0, 0.6) no-repeat;
@@ -114,7 +120,7 @@ header {
     width: 88%;
 }
 
-/***********MAIN***********/
+/*MAIN*/
 
 main {
     padding-bottom: 4rem;
@@ -123,7 +129,6 @@ main {
 
 main .btn {
     color: #ff4e50;
-
 }
 
 main .btn:hover {
@@ -163,7 +168,6 @@ main h2 {
     font-size: 1.4rem;
     margin: 0;
     margin-bottom: 1.8rem;
-
 }
 
 .list-partners p {
@@ -184,11 +188,10 @@ main h2 {
     height: 3.3rem;
     border: 4px solid #fff;
     border-radius: 4rem;
-    box-sizing: border-box;
     position: absolute;
     bottom: 0;
     right: 10rem;
-    padding-top: 0.4rem;
+    padding-top: 0.3rem;
 }
 
 .icon1 {
