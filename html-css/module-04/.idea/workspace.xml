@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-08/css/style.css" afterPath="$PROJECT_DIR$/../module-08/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/../module-08/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="121">
-              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <caret line="32" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -38,8 +37,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-08/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-187">
-              <caret line="169" column="26" lean-forward="false" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+            <state relative-caret-position="307">
+              <caret line="189" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +58,8 @@
       <find>Ital</find>
       <find>scri</find>
       <find>amaranth</find>
+      <find>img</find>
+      <find>radius</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -289,7 +290,7 @@
       <workItem from="1538037491762" duration="21856000" />
       <workItem from="1538121304579" duration="1733000" />
       <workItem from="1538130109837" duration="17441000" />
-      <workItem from="1538212384295" duration="1347000" />
+      <workItem from="1538212384295" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -316,7 +317,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459911000" />
+    <option name="totallyTimeSpent" value="460162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
@@ -715,15 +716,15 @@
     <entry file="file://$PROJECT_DIR$/../module-08/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
-          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <caret line="32" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-08/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="169" column="26" lean-forward="false" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+        <state relative-caret-position="307">
+          <caret line="189" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
           <folding />
         </state>
       </provider>

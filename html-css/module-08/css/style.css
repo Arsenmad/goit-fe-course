@@ -71,7 +71,7 @@ header {
     margin-bottom: 11rem;
 }
 
-.site-navigation-links li{
+.site-navigation-links li {
     display: inline-block;
 }
 
@@ -223,7 +223,7 @@ main h2 {
         margin-bottom: 0;
     }
 
-    .container h3{
+    .container h3 {
         width: 100%;
     }
 
@@ -271,6 +271,7 @@ main h2 {
     .list-partners li:nth-last-child(odd) {
         margin-bottom: 0;
     }
+
     .list-partners p {
         width: 97%;
     }
@@ -329,6 +330,7 @@ main h2 {
     .list-partners {
         margin-bottom: 3rem;
     }
+
     .list-partners p {
         width: 100%;
     }
