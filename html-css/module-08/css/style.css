@@ -182,7 +182,37 @@ main h2 {
 .photo {
     position: relative;
 }
-
+/* ВАРИАНТ 2  */
+/*   .list-item1::after,
+.list-item2::after,
+.list-item3::after,
+.list-item4::after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 32px;
+    height: 32px;
+    border: 3px #fff solid;
+    border-radius: 40px;
+    right: 100px;
+    top: 90px;
+}
+.list-item1::after {
+    background: url(../images/i1.png) no-repeat 45% 45%;
+    background-color: #ff4e50
+}
+.list-item2::after {
+    background: url(../images/i2.png) no-repeat 45% 45%;
+    background-color: #ffa507
+}
+.list-item3::after {
+    background: url(../images/i3.png) no-repeat 45% 35%;
+    background-color: #1cd7ad
+}
+.list-item4::after {
+    background: url(../images/i4.png) no-repeat 40% 50%;
+    background-color: #4e73db
+}*/
 .img-icon {
     width: 3.3rem;
     height: 3.3rem;
