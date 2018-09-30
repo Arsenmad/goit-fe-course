@@ -152,9 +152,6 @@ main h2 {
     margin-bottom: 3rem;
 }
 
-.list-partners li {
-    margin-bottom: 3rem;
-}
 
 .list-partners li:last-child {
     margin-bottom: 0;
@@ -213,7 +210,11 @@ main h2 {
     background: url(../img/icons/i4.png) no-repeat 30% 50%;
     background-color: #4e73db;
 }
-
+@media (min-width: 320px) and  (max-width: 939px){
+    .list-partners li {
+        margin-bottom: 3rem;
+    }
+}
 @media (min-width: 768px) {
 
     .site-navigation {
@@ -325,7 +326,6 @@ main h2 {
 
     .list-partners li {
         flex-basis: 24%;
-        margin-bottom: 0;
     }
 
     .list-partners {
