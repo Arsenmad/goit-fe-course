@@ -25,7 +25,7 @@ li {
     list-style-type: none;
 }
 
-.btn {
+.sheet {
     padding: 1rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
@@ -34,9 +34,11 @@ li {
     border-radius: 3rem;
     display: inline-block;
     width: 28rem;
+    background-color: transparent;
+    color: #ffffff;
 }
 
-.btn:hover {
+.sheet:hover {
     background-color: #ff4e50;
 }
 
@@ -74,6 +76,17 @@ header {
 .site-navigation-links li {
     display: inline-block;
 }
+.site-navigation-links a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    border: 3px transparent solid;
+    border-radius: 2rem;
+    padding: 0.8rem 1.4rem;
+}
+.site-navigation-links a:hover{
+    border: 3px #ffffff solid;
+    transition-duration: 0.2s;
+}
 
 .logo {
     font-family: 'Montserrat', sans-serif;
@@ -82,18 +95,6 @@ header {
     text-transform: uppercase;
     margin-bottom: 4rem;
     display: block;
-}
-
-.site-navigation .btn {
-    border: 3px solid transparent;
-    width: 9rem;
-    font-size: 1.4rem;
-    display: block;
-}
-
-.site-navigation .btn:hover {
-    border: 3px solid #ffffff;
-    background-color: transparent;
 }
 
 .friends {
@@ -129,11 +130,11 @@ main {
     text-align: center;
 }
 
-main .btn {
+main .sheet {
     color: #ff4e50;
 }
 
-main .btn:hover {
+main .sheet:hover {
     color: #ffffff;
 }
 
@@ -235,7 +236,7 @@ main h2 {
         padding-bottom: 23.7rem;
     }
 
-    header .btn {
+    header .sheet {
         width: 23rem;
     }
 
@@ -252,7 +253,7 @@ main h2 {
         max-width: 49.2rem;
     }
 
-    main .btn {
+    main .sheet {
         width: 19.2rem;
     }
 
