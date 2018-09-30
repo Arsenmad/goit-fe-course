@@ -53,7 +53,8 @@ header {
 }
 
 .wrapper {
-    max-width: 31rem;
+    min-width: 32rem;
+    max-width: 94rem;
     margin: 0 auto;
     padding-top: 5rem;
     text-align: center;
