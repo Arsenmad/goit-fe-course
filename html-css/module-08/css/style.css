@@ -184,7 +184,12 @@ main h2 {
     position: relative;
 }
                             /* ВАРИАНТ 2  */
-/*   .list-item1::after,
+/*
+.list-item {
+        width: 23.6rem;
+      }
+
+.list-item1::after,
 .list-item2::after,
 .list-item3::after,
 .list-item4::after {
@@ -197,6 +202,10 @@ main h2 {
     border-radius: 40px;
     right: 100px;
     top: 90px;
+}
+.list-item {
+   text-align: center;
+   position: relative;
 }
 .list-item1::after {
     background: url(../images/i1.png) no-repeat 45% 45%;
@@ -322,12 +331,23 @@ main h2 {
     .img-icon {
         right: 6rem;
     }
-    /*.item1::after,
+    /*  вариант2
+
+    .list-partners {
+        width: 490px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0 auto;
+    }
+
+    .item1::after,
     .item2::after,
     .item3::after,
     .item4::after {
         right: 6rem;
-    }*/
+    }
+    */
 
     .container {
         max-width: 40.4rem;
@@ -367,6 +387,12 @@ main h2 {
     .list-partners {
         margin-bottom: 3rem;
     }
+    /* вариант2
+    .list-partners {
+        width: 94rem;
+        flex-wrap: nowrap;
+    }
+    */
 
     .list-partners p {
         width: 100%;
