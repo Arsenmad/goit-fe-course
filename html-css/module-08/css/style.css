@@ -53,8 +53,7 @@ header {
 }
 
 .wrapper {
-    min-width: 32rem;
-    max-width: 94rem;
+    width: 32rem;
     margin: 0 auto;
     padding-top: 5rem;
     text-align: center;
@@ -169,7 +168,7 @@ main h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 1.4rem;
-    margin: 0;
+    margin: 0 auto;
     margin-bottom: 1.8rem;
 }
 
@@ -251,7 +250,7 @@ main h2 {
     }
 
     main .wrapper {
-        max-width: 49.2rem;
+        width: 49.2rem;
     }
 
     main .sheet {
@@ -317,7 +316,7 @@ main h2 {
 
     header .wrapper,
     main .wrapper {
-        max-width: 94rem;
+        width: 94rem;
     }
 
     .friends {
