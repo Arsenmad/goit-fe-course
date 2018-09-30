@@ -88,6 +88,7 @@ header {
     border: 3px solid transparent;
     width: 9rem;
     font-size: 1.4rem;
+    display: block;
 }
 
 .site-navigation .btn:hover {
@@ -182,7 +183,7 @@ main h2 {
 .photo {
     position: relative;
 }
-/* ВАРИАНТ 2  */
+                            /* ВАРИАНТ 2  */
 /*   .list-item1::after,
 .list-item2::after,
 .list-item3::after,
