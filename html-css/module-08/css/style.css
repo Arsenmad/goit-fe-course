@@ -322,6 +322,12 @@ main h2 {
     .img-icon {
         right: 6rem;
     }
+    /*.item1::after,
+    .item2::after,
+    .item3::after,
+    .item4::after {
+        right: 6rem;
+    }*/
 
     .container {
         max-width: 40.4rem;
