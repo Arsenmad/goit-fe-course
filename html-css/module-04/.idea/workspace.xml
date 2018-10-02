@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.gitignore" afterPath="$PROJECT_DIR$/../../.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-08/css/style.css" afterPath="$PROJECT_DIR$/../module-08/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-08/index.html" afterPath="$PROJECT_DIR$/../module-08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-09/css/style.css" afterPath="$PROJECT_DIR$/../module-09/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-09/index.html" afterPath="$PROJECT_DIR$/../module-09/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -323,7 +320,7 @@
       <workItem from="1538393438469" duration="3676000" />
       <workItem from="1538417861288" duration="49000" />
       <workItem from="1538418009998" duration="530000" />
-      <workItem from="1538471704571" duration="2813000" />
+      <workItem from="1538471704571" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -350,7 +347,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="490391000" />
+    <option name="totallyTimeSpent" value="491012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
