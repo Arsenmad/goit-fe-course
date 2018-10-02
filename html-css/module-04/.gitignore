@@ -1,6 +1,7 @@
 ¹idea
 *.idea
 *.xml
+.idea
 
 # Logs
 logs
