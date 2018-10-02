@@ -36,6 +36,7 @@ li {
     width: 28rem;
     background-color: transparent;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .sheet:hover {
@@ -71,6 +72,8 @@ header {
     padding: 0;
     display: flex;
     margin-bottom: 11rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
 }
 
 .site-navigation-links li {
@@ -96,7 +99,11 @@ header {
     margin-bottom: 4rem;
     display: block;
 }
-
+.caption{
+    display: block;
+    width: 32rem;
+    margin: 0 auto;
+}
 .friends {
     max-width: 33rem;
     margin: 0 auto;
@@ -179,16 +186,19 @@ main h2 {
 }
 .photo{
     position: relative;
+    max-width: 12.5rem;
+    margin: auto;
+    margin-bottom: 2rem;
 }
 .photo::after {
     position: absolute;
     display: block;
     content: '';
-    width: 32px;
-    height: 32px;
+    width: 36px;
+    height: 36px;
     border: 3px #fff solid;
     border-radius: 4rem;
-    right: 10rem;
+    right: 0.3rem;
     top: 9rem;
 }
 .list-item {
@@ -236,13 +246,16 @@ main h2 {
     header {
         padding-bottom: 23.7rem;
     }
+    .caption{
+        width: 66rem;
+    }
 
     header .sheet {
         width: 23rem;
     }
 
     header .wrapper {
-        max-width: 66rem;
+        width: 66rem;
         margin-bottom: 13rem;
     }
 
@@ -251,7 +264,7 @@ main h2 {
     }
 
     main .wrapper {
-        width: 49.2rem;
+        width: 66rem;
     }
 
     main .sheet {
@@ -292,10 +305,6 @@ main h2 {
 
     .list-item4 {
         order: 4;
-    }
-
-    .photo::after{
-        right: 6rem;
     }
 
     .friends {
