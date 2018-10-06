@@ -1,0 +1,253 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+li {
+    list-style-type: none;
+}
+[class*="col-"] {
+    padding: 0;
+    margin: 0;
+}
+
+[class*="container"] {
+    padding: 0;
+}
+[class*="row"] {
+    margin: 0;
+}
+
+.sheet,
+.sheet-link{
+    padding: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    border: 3px solid #ff4e50;
+    border-radius: 3rem;
+    display: block;
+    width: 28rem;
+    background-color: transparent;
+    color: #ffffff;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.sheet:hover,
+.sheet-link:hover{
+    background-color: #ff4e50;
+}
+
+.site-header{
+    background: url("../img/bg.png"), rgba(0, 0, 0, 0.6) no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding-top: 5rem;
+    padding-bottom: 14rem;
+    color: #ffffff;
+    min-height: 54rem;
+    text-align: center;
+}
+.partners-wrapper{
+    padding: 5rem;
+
+}
+.masthead{
+    text-align: center;
+}
+
+.logo{
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 4rem;
+}
+
+
+.site-navigation-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 11rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.site-navigation-links li {
+    display: inline-block;
+}
+.site-navigation-links a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    border: 3px transparent solid;
+    border-radius: 2rem;
+    padding: 0.8rem 1.4rem;
+}
+
+.site-navigation-links a:hover{
+    border: 3px #ffffff solid;
+    transition-duration: 0.2s;
+}
+
+.friends {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.friends h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.friends p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    width: 88%;
+}
+
+main {
+    text-align: center;
+}
+
+main .sheet {
+    color: #ff4e50;
+}
+
+main .sheet:hover {
+    color: #ffffff;
+}
+
+main h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    color: #333333;
+}
+
+.partner {
+    padding: 7rem 0;
+}
+.partner h2{
+    margin-bottom: 1.6rem;
+}
+.list-partners {
+    padding: 0;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+.list-partners li:last-child {
+    margin-bottom: 0;
+}
+
+.photo {
+    margin-bottom: 2rem;
+}
+
+.list-partners .name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin: 0 auto;
+    margin-bottom: 1.2rem;
+}
+
+.list-partners p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.4rem;
+    color: #666666;
+    margin: 0 auto;
+    width: 22rem;
+}
+.photo{
+    position: relative;
+    max-width: 12.5rem;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+.photo::after {
+    position: absolute;
+    display: block;
+    content: '';
+    width: 36px;
+    height: 36px;
+    border: 3px #fff solid;
+    border-radius: 4rem;
+    right: 0.3rem;
+    top: 9rem;
+}
+.list-item {
+    text-align: center;
+}
+.item1::after {
+    background: url(../img/icons/i1.png) no-repeat 45% 45%;
+    background-color: #ff4e50;
+}
+.item2::after {
+    background: url(../img/icons/i2.png) no-repeat 45% 45%;
+    background-color: #ffa507;
+}
+.item3::after {
+    background: url(../img/icons/i3.png) no-repeat 45% 35%;
+    background-color: #1cd7ad;
+}
+.item4::after {
+    background: url(../img/icons/i4.png) no-repeat 30% 50%;
+    background-color: #4e73db;
+}
+
+@media (max-width: 992px) and (min-width: 320px) {
+    .list-partners li {
+        margin-bottom: 3rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .list-partners li:nth-last-child(odd) {
+        margin-bottom: 0;
+    }
+    .logo{
+        margin-bottom: 0;
+    }
+    .friends h2 {
+        font-size: 4.1rem;
+        margin-bottom: 4rem;
+    }
+    .friends p {
+        font-size: 2.4rem;
+    }
+    .partner h2{
+        font-size: 2.4rem;
+        margin-bottom: 3.5rem;
+    }
+}
