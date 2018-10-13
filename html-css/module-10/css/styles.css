@@ -2,6 +2,7 @@
 html {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    font-size: 62.5%;
 }
 
 *,
@@ -33,7 +34,7 @@ input[type="radio"].visually-hydden {
     overflow: hidden;
 }
 .container{
-    width: 1200px;
+    width: 120rem;
     margin: 0 auto;
 }
 .wrapper {
@@ -45,7 +46,7 @@ input[type="radio"].visually-hydden {
     -ms-flex-direction: column;
     flex-direction: column;
     min-height: 100vh;
-    width: 1200px;
+    width: 120rem;
     margin: 0 auto;
 
 }
@@ -59,7 +60,7 @@ img {
 /*HEADER*/
 
 .masthead-wrapper {
-    min-height: 1000px;
+    min-height: 100rem;
     background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(252, 227, 138, 0.81)), to(rgba(243, 129, 129, 0.81))), url("../img/top_image.png");
     background-image: -webkit-linear-gradient(bottom, rgba(252, 227, 138, 0.81) 0%, rgba(243, 129, 129, 0.81) 100%), url("../img/top_image.png");
     background-image: -o-linear-gradient(bottom, rgba(252, 227, 138, 0.81) 0%, rgba(243, 129, 129, 0.81) 100%), url("../img/top_image.png");
@@ -67,8 +68,8 @@ img {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding-top: 22px;
-    padding-bottom: 230px;
+    padding-top: 2.2rem;
+    padding-bottom: 23rem;
 }
 
 @media (-webkit-min-device-pixel-ratio: 2),(-o-min-device-pixel-ratio: 2/1),(min-resolution: 192dpi),(min-resolution: 2dppx) {
@@ -84,7 +85,7 @@ img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -ms-flex-preferred-size: 1200px;
+    -ms-flex-preferred-size: 120rem;
     flex-basis: 1200px;
 }
 
@@ -95,8 +96,8 @@ img {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    -ms-flex-preferred-size: 1200px;
-    flex-basis: 1200px;
+    -ms-flex-preferred-size: 120rem;
+    flex-basis: 120rem;
 }
 
 .logo__link{
@@ -135,10 +136,10 @@ img {
 .menu {
     list-style: none;
     margin: 0;
-    margin-right: 60px;
+    margin-right: 6rem;
     padding: 0;
-    -ms-flex-preferred-size: 600px;
-    flex-basis: 600px;
+    -ms-flex-preferred-size: 60rem;
+    flex-basis: 60rem;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -149,13 +150,12 @@ img {
 
 
 .menu__link {
-    font-size: 14px;
+    font-size: 1.4rem;
     color: #ffffff;
     text-transform: uppercase;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-
     display: block;
     -webkit-transition: all 200ms linear;
     -o-transition: all 200ms linear;
@@ -166,7 +166,7 @@ img {
     border-bottom: 3px solid #fce38a;
     content: '';
     display: block;
-    padding-top: 10px;
+    padding-top: 1rem;
     opacity: 0;
     -webkit-transform: translateY(-100%);
     -ms-transform: translateY(-100%);
@@ -198,8 +198,8 @@ img {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    -ms-flex-preferred-size: 90px;
-    flex-basis: 90px;
+    -ms-flex-preferred-size: 9rem;
+    flex-basis: 9rem;
     margin: 0;
     padding: 0;
 }
@@ -214,21 +214,21 @@ img {
 
 .options__button-cart{
     background-image: url(../img/icons/cart.svg);
-    width: 18px;
-    height: 18px;
+    width: 1.8rem;
+    height: 1.8rem;
 }
 
 .options__button-search{
     background-image: url(../img/icons/search.svg);
-    width: 18px;
-    height: 20px;
+    width: 1.8rem;
+    height: 2rem;
 }
 
 .banner {
-    min-width: 541px;
-    max-width: 802px;
+    min-width: 54rem;
+    max-width: 80rem;
     text-align: center;
-    margin-top: 154px;
+    margin-top: 15rem;
     margin-right: auto;
     margin-left: auto;
 }
@@ -236,33 +236,33 @@ img {
 .banner__subtitle {
     color: #ffffff;
     font-family: "Kaushan Script", cursive;
-    font-size: 72px;
+    font-size: 7rem;
     font-weight: 400;
     text-transform: capitalize;
     display: block;
 }
 
 .banner__title {
-    max-width: 802px;
-    letter-spacing: -7px;
+    max-width: 80rem;
+    letter-spacing: -0.7rem;
     color: #ffffff;
     font-family: Montserrat, sans-serif;
-    font-size: 150px;
+    font-size: 15rem;
     font-weight: 700;
-    line-height: 140px;
+    line-height: 14rem;
     text-transform: uppercase;
-    margin-top: 35px;
-    margin-bottom: 109px;
+    margin-top: 3.5rem;
+    margin-bottom: 11rem;
 }
 
 .banner__button{
     display: inline-block;
     text-decoration: none;
     border: 3px solid #ffffff;
-    padding: 10px 30px;
+    padding: 1rem 3rem;
     color:#ffffff;
     font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 
@@ -274,25 +274,25 @@ main {
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
-    padding-top: 50px;
+    padding-top: 5rem;
 }
 
 main header {
-    margin-bottom: 110px;
+    margin-bottom: 11rem;
 }
 
 .section-header__title {
     display: block;
     text-align: center;
     font-family: 'Kaushan Script', cursive;
-    font-size: 24px;
+    font-size: 2.4rem;
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 .section-header__subtitle {
     text-align: center;
-    font-size: 30px;
+    font-size: 3rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
@@ -303,11 +303,11 @@ main header {
 .section-header__subtitle::after {
     background-color: #f38181;
     content: '';
-    height: 3px;
-    width: 60px;
+    height: 0.3rem;
+    width: 6rem;
     margin: 0 auto;
     display: block;
-    margin-top: 42px;
+    margin-top: 4.2rem;
 }
 
 .services {
@@ -333,7 +333,7 @@ main header {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     padding: 0;
-    padding-left: 60px;
+    padding-left: 6rem;
     margin: 0;
     position: relative;
 }
@@ -341,8 +341,8 @@ main header {
 .service__item::before {
     content: "";
     display: inline-block;
-    height: 40px;
-    width: 40px;
+    height: 4rem;
+    width: 4rem;
     left: 0;
     top: 0;
     position: absolute;
@@ -376,43 +376,43 @@ main header {
 
 .service-content__text {
     color: #999999;
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
     margin: 0;
 }
 
 .service__item:not(:nth-last-child(-n+3)) {
-    margin-bottom: 100px;
+    margin-bottom: 10rem;
 }
 
 .service-content__title {
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 1.4rem;
     color: #333333;
     text-transform: uppercase;
     line-height: 1.2;
     text-align: left;
     font-weight: 400;
     margin: 0;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 /*SECTON TEAM*/
 
 .team {
-    padding: 90px 0;
+    padding: 9rem 0;
     border-bottom: 1px solid #e5e5e5;
 }
 
 .section-header__text {
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
     font-weight: 400;
     color: #999999;
-    width: 940px;
+    width: 94rem;
     margin: 0 auto;
     text-align: center;
-    padding-top: 46px;
+    padding-top: 4.6rem;
 
 }
 
@@ -441,7 +441,7 @@ main header {
 }
 
 .team-list__item:last-child {
-    margin-right: 10px;
+    margin-right: 1rem;
 }
 
 .team-card__icons {
@@ -450,7 +450,7 @@ main header {
 
 .overlay {
     width: 100%;
-    height: 470px;
+    height: 47rem;
     position: absolute;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -499,8 +499,8 @@ main header {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
-    width: 55px;
-    height: 55px;
+    width: 5.5rem;
+    height: 5.5rem;
     cursor: pointer;
     background-repeat: no-repeat;
     background-position: center;
@@ -514,39 +514,34 @@ main header {
 .team-card-icons__item{
     fill : #f38181;
     display: inline-block;
-    padding-top: 10px;
+    padding-top: 1rem;
 }
-
-.team-card-icons__item:hover{
-    fill: #ffffff;
-}
-
 .team-card-icons__item:hover>svg{
     fill: #ffffff;
 }
 .team-card-icons__item > svg {
     display: inline-block;
-    height: 36px;
-    width: 56px;
+    height: 3.6rem;
+    width: 5.6rem;
     fill: #f38181;
 }
 
 .team-card-meta {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 4rem;
 }
 
 .team-card-meta__name {
-    font-size: 14px;
+    font-size: 1.4rem;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
 }
 
 .team-card-meta__pos {
-    font-size: 15px;
+    font-size: 1.5rem;
     font-family: 'Roboto', sans-serif;
     font-style: italic;
     font-weight: 300;
@@ -571,9 +566,9 @@ main header {
 }
 
 .copyright__text {
-    font-size: 14px;
+    font-size: 1.4rem;
     font-family: 'Montserrat', sans-serif;
-    padding: 30px 0;
+    padding: 3rem 0;
     margin: 0;
 }
 
@@ -583,15 +578,15 @@ main header {
 }
 
 .email {
-    width: 230px;
-    height: 40px;
-    font-size: 15px;
+    width: 23rem;
+    height: 4rem;
+    font-size: 1.5rem;
     border: 1px solid #cccccc;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     color: #333333;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .form input:focus {
@@ -600,8 +595,8 @@ main header {
 }
 
 .subscribe {
-    width: 150px;
-    height: 40px;
+    width: 15rem;
+    height: 4rem;
     text-transform: uppercase;
     border: none;
     margin-left: -4px;
