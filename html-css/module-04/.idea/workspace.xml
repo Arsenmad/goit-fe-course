@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../module-05/css/style.css" line="191" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/cssxfire.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/admin_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/module-04.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vagrant.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-    </list>
+    <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,31 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4403">
               <caret line="595" column="22" lean-forward="false" selection-start-line="595" selection-start-column="22" selection-end-line="595" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://D:/goit/module-09-1/module-09/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://D:/goit/module-09-1/module-09/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="161" column="16" lean-forward="true" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -385,7 +355,7 @@
       <workItem from="1539245558717" duration="6371000" />
       <workItem from="1539330067201" duration="24846000" />
       <workItem from="1539437638148" duration="10886000" />
-      <workItem from="1539512191420" duration="3247000" />
+      <workItem from="1539512191420" duration="3754000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -412,7 +382,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="655461000" />
+    <option name="totallyTimeSpent" value="655968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -750,14 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4403">
-          <caret line="595" column="22" lean-forward="false" selection-start-line="595" selection-start-column="22" selection-end-line="595" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/goit/module-09-1/module-09/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -770,6 +732,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="161" column="16" lean-forward="true" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4403">
+          <caret line="595" column="22" lean-forward="false" selection-start-line="595" selection-start-column="22" selection-end-line="595" selection-end-column="22" />
           <folding />
         </state>
       </provider>
