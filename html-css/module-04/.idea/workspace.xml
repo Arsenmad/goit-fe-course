@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/alarm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/computer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/graph.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/image.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/icons/sprite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-1@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-2@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/team-3@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/top_image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/img/top_image@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../module-10/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-10/css/styles.css" afterPath="$PROJECT_DIR$/../module-10/css/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,30 +43,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../module-10/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2618">
-              <caret line="154" column="49" lean-forward="false" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
-              <folding>
-                <element signature="e#11663#11669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8940">
-              <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -358,7 +354,7 @@
       <workItem from="1539245558717" duration="6371000" />
       <workItem from="1539330067201" duration="24846000" />
       <workItem from="1539437638148" duration="10886000" />
-      <workItem from="1539512191420" duration="5122000" />
+      <workItem from="1539512191420" duration="5725000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -385,11 +381,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="657336000" />
+    <option name="totallyTimeSpent" value="657939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17755532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -474,13 +469,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../module-05/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../module-05/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -729,20 +717,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../module-10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="154" column="49" lean-forward="false" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
-          <folding>
-            <element signature="e#11663#11669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8940">
           <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="154" column="49" lean-forward="false" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-10/build/css/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
