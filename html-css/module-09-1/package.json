@@ -9,7 +9,7 @@
     "lint": "stylelint module-09-1/css/*.css",
     "css": "postcss module-09-1/css/*.css --use autoprefixer --use cssnano -d build/css",
     "clean": "rimraf build && mkdir build",
-    "html": "html-minifier --input-dir module-09 --output-dir build --collapse-whitespace --file-ext html",
+    "html": "html-minifier --input-dir module-09-1 --output-dir build --collapse-whitespace --file-ext html",
     "images": "imagemin module-09-1/img/* -o=build/img",
    "prebuild": "npm run lint",
     "build": "npm run clean && npm run images && npm run css && npm run html"
