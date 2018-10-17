@@ -136,6 +136,7 @@ img {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    height: 1.5rem;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
@@ -200,6 +201,7 @@ img {
     border: none;
     background-color: transparent;
     background-repeat: no-repeat;
+    background-position: center;
     cursor: pointer;
 }
 
@@ -216,12 +218,10 @@ img {
 }
 
 .banner {
-    min-width: 54rem;
-    max-width: 80rem;
+    width: 82rem;
     text-align: center;
-    margin-top: 15rem;
-    margin-right: auto;
-    margin-left: auto;
+    padding-top: 17rem;
+    margin: 0 auto;
 }
 
 .banner__subtitle {
