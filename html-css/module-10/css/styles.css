@@ -492,14 +492,14 @@ main header {
     padding-top: 1rem;
 }
 
-.team-card-icons__item > svg {
+.team-card-icons__item .team-card__icons--icon {
     display: inline-block;
     height: 3.6rem;
     width: 5.6rem;
     fill: #f38181;
 }
 
-.team-card-icons__item:hover > svg {
+.team-card-icons__item:hover .team-card__icons--icon {
     fill: #ffffff;
 }
 .team-list__meta {

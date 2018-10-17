@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../module-10/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="210" column="32" lean-forward="false" selection-start-line="210" selection-start-column="32" selection-end-line="210" selection-end-column="32" />
+            <state relative-caret-position="121">
+              <caret line="122" column="63" lean-forward="false" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -38,8 +38,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="518" column="22" lean-forward="false" selection-start-line="518" selection-start-column="22" selection-end-line="518" selection-end-column="22" />
+            <state relative-caret-position="561">
+              <caret line="501" column="52" lean-forward="false" selection-start-line="501" selection-start-column="52" selection-end-line="501" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -125,8 +125,8 @@
         <option value="$PROJECT_DIR$/../module-11/.gitignore" />
         <option value="$PROJECT_DIR$/../module-11/src/index.html" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/styles.scss" />
-        <option value="$PROJECT_DIR$/../module-10/css/styles.css" />
         <option value="$PROJECT_DIR$/../module-10/index.html" />
+        <option value="$PROJECT_DIR$/../module-10/css/styles.css" />
       </list>
     </option>
   </component>
@@ -364,7 +364,7 @@
       <workItem from="1539437638148" duration="10886000" />
       <workItem from="1539512191420" duration="5725000" />
       <workItem from="1539687566098" duration="4880000" />
-      <workItem from="1539801014337" duration="7036000" />
+      <workItem from="1539801014337" duration="7833000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -391,7 +391,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="669855000" />
+    <option name="totallyTimeSpent" value="670652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -702,16 +702,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="518" column="22" lean-forward="false" selection-start-line="518" selection-start-column="22" selection-end-line="518" selection-end-column="22" />
+        <state relative-caret-position="561">
+          <caret line="501" column="52" lean-forward="false" selection-start-line="501" selection-start-column="52" selection-end-line="501" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../module-10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="210" column="32" lean-forward="false" selection-start-line="210" selection-start-column="32" selection-end-line="210" selection-end-column="32" />
+        <state relative-caret-position="121">
+          <caret line="122" column="63" lean-forward="false" selection-start-line="122" selection-start-column="63" selection-end-line="122" selection-end-column="63" />
           <folding />
         </state>
       </provider>
