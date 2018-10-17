@@ -322,7 +322,7 @@ main header {
     position: relative;
 }
 
-.service__item::before {
+.service__icon::before {
     content: "";
     display: inline-block;
     height: 4rem;
@@ -332,27 +332,27 @@ main header {
     position: absolute;
 }
 
-.first__services::before {
+.service__icon--alarm::before {
     background: url(../img/icons/alarm.svg) no-repeat center;
 }
 
-.second__services::before {
+.service__icon--graph::before {
     background: url(../img/icons/graph.svg) no-repeat center;
 }
 
-.third__services::before {
+.service__icon--pc::before {
     background: url(../img/icons/computer.svg) no-repeat center;
 }
 
-.fourth__services::before {
+.service__icon--book::before {
     background: url(../img/icons/book.svg) no-repeat center;
 }
 
-.fifth__services::before {
+.service__icon--house::before {
     background: url(../img/icons/home.svg) no-repeat center;
 }
 
-.sixth__services::before {
+.service__icon--scope::before {
     background: url(../img/icons/image.svg) no-repeat center;
 }
 
