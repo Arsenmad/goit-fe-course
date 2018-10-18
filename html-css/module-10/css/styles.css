@@ -32,12 +32,13 @@ input[type="radio"].visually-hydden {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.link{
+
+.link {
     display: block;
     text-decoration: none;
 }
 
-.list{
+.list {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -480,19 +481,14 @@ main header {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #fce38a;
-    margin-right: 1px;
+    padding-top: 1rem;
+    margin-right: 0.1rem;
     -webkit-transition: background-color 200ms linear;
     -o-transition: background-color 200ms linear;
     transition: background-color 200ms linear;
 }
 
-.socials__item {
-    fill: #f38181;
-    display: inline-block;
-    padding-top: 1rem;
-}
-
-.socials__item .socials__icons--icon {
+.socials__icons--icon {
     display: inline-block;
     height: 3.6rem;
     width: 5.6rem;
@@ -502,6 +498,7 @@ main header {
 .socials__item:hover .socials__icons--icon {
     fill: #ffffff;
 }
+
 .team-list__meta {
     text-align: center;
     margin-top: 4rem;
