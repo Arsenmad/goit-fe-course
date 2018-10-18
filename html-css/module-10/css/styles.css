@@ -199,6 +199,7 @@ img {
 
 .options__button-search,
 .options__button-cart {
+    display: block;
     border: none;
     background-color: transparent;
     background-repeat: no-repeat;
