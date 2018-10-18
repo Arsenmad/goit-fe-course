@@ -459,18 +459,18 @@ main header {
     opacity: 1;
 }
 
-.team-card__icons {
+.socials {
     padding: 0;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
 }
 
-.team-card-icons__item:hover {
+.socials__item:hover {
     background-color: #f38181;
 }
 
-.team-card-icons__item {
+.socials__item {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
@@ -486,20 +486,20 @@ main header {
     transition: background-color 200ms linear;
 }
 
-.team-card-icons__item {
+.socials__item {
     fill: #f38181;
     display: inline-block;
     padding-top: 1rem;
 }
 
-.team-card-icons__item .team-card__icons--icon {
+.socials__item .socials__icons--icon {
     display: inline-block;
     height: 3.6rem;
     width: 5.6rem;
     fill: #f38181;
 }
 
-.team-card-icons__item:hover .team-card__icons--icon {
+.socials__item:hover .socials__icons--icon {
     fill: #ffffff;
 }
 .team-list__meta {
