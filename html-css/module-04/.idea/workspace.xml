@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09286c9-1b8f-4c64-ba5e-c74b283167cb" name="Default" comment="footer image position">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-10/css/styles.css" afterPath="$PROJECT_DIR$/../module-10/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-11/src/html/header.html" afterPath="$PROJECT_DIR$/../module-11/src/html/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss" afterPath="$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +25,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../module-10/index.html">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../module-11/src/html/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="56" lean-forward="false" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+            <state relative-caret-position="578">
+              <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
+      <file leaf-file-name="site-navigation.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+            <state relative-caret-position="390">
+              <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -129,8 +130,6 @@
         <option value="$PROJECT_DIR$/../module-11/src/scss/helpers/mixin.scss" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/components/team.scss" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/helpers/placeholders.scss" />
-        <option value="$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss" />
-        <option value="$PROJECT_DIR$/../module-11/src/html/header.html" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/components/logo.scss" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/components/link.scss" />
         <option value="$PROJECT_DIR$/../module-11/src/scss/components/list.scss" />
@@ -144,6 +143,8 @@
         <option value="$PROJECT_DIR$/../module-11/src/index.html" />
         <option value="$PROJECT_DIR$/../module-10/index.html" />
         <option value="$PROJECT_DIR$/../module-10/css/styles.css" />
+        <option value="$PROJECT_DIR$/../module-11/src/html/header.html" />
+        <option value="$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss" />
       </list>
     </option>
   </component>
@@ -386,7 +387,7 @@
       <workItem from="1539856084998" duration="4385000" />
       <workItem from="1539941532878" duration="2222000" />
       <workItem from="1539958952959" duration="15143000" />
-      <workItem from="1540025222948" duration="11182000" />
+      <workItem from="1540025222948" duration="11431000" />
     </task>
     <task id="LOCAL-00001" summary="form">
       <created>1536933329006</created>
@@ -413,7 +414,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="705416000" />
+    <option name="totallyTimeSpent" value="705665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -650,14 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../module-11/src/scss/components/masthead-wrapper.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../module-11/src/html/team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -670,14 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -702,14 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../module-11/src/html/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -786,6 +763,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../module-10/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -794,10 +779,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../module-10/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/../module-11/src/scss/components/masthead-wrapper.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-11/src/html/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../module-11/src/scss/components/site-navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
           <folding />
         </state>
       </provider>
