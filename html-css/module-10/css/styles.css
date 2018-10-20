@@ -208,12 +208,12 @@ img {
     width: 1.8rem;
 }
 
-.options__button-cart {
+.options__button--cart {
     background-image: url(../img/icons/cart.svg);
     height: 1.8rem;
 }
 
-.options__button-search {
+.options__button--search {
     background-image: url(../img/icons/search.svg);
     height: 2rem;
 }
