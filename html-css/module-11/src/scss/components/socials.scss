@@ -1,0 +1,32 @@
+.socials {
+  padding: 0;
+  display: inline-flex;
+}
+
+.socials__item {
+  display: inline-flex;
+  width: 5.5rem;
+  height: 5.5rem;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fce38a;
+  padding-top: 1rem;
+  margin-right: 0.1rem;
+  transition: background-color 200ms linear;
+
+  &:hover {
+    background-color: #f38181;
+  }
+}
+
+.socials__icons--icon {
+  display: inline-block;
+  height: 3.6rem;
+  width: 5.6rem;
+  fill: #f38181;
+}
+
+.socials__item:hover .socials__icons--icon {
+  fill: $primary-white-color;
+}

@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+  font-family:$main-font-stack;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

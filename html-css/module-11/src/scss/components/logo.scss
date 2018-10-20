@@ -1,0 +1,24 @@
+.logo__link {
+  display: flex;
+  margin-right: auto;
+  text-decoration: none;
+}
+
+.logo {
+  align-items: center;
+  font-size: 30px;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  display: flex;
+}
+
+.logo__letter--uppercase {
+  text-transform: uppercase;
+  margin: 0;
+  text-decoration: none;
+}
+
+.logo__letter {
+  margin: 0;
+}

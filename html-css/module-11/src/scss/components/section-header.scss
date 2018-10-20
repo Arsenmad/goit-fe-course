@@ -1,0 +1,28 @@
+.section-header__title {
+  display: block;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 2.4rem;
+  margin: 0;
+  margin-bottom: 2rem;
+}
+
+.section-header__subtitle {
+  text-align: center;
+  font-size: 3rem;
+  font-family: $secondary-font-stack;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+
+}
+
+.section-header__subtitle::after {
+  background-color: #f38181;
+  content: '';
+  height: 0.3rem;
+  width: 6rem;
+  margin: 0 auto;
+  display: block;
+  margin-top: 4.2rem;
+}

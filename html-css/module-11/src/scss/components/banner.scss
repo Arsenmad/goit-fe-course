@@ -1,0 +1,39 @@
+.banner {
+  width: 82rem;
+  text-align: center;
+  padding-top: 17rem;
+  margin: 0 auto;
+}
+
+.banner__subtitle {
+  color: $primary-white-color;
+  font-family: "Kaushan Script", cursive;
+  font-size: 7rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  display: block;
+}
+
+.banner__title {
+  max-width: 80rem;
+  letter-spacing: -0.7rem;
+  color: $primary-white-color;
+  font-family: $secondary-font-stack;
+  font-size: 15rem;
+  font-weight: 700;
+  line-height: 14rem;
+  text-transform: uppercase;
+  margin-top: 3.5rem;
+  margin-bottom: 11rem;
+}
+
+.banner__button {
+  display: inline-block;
+  text-decoration: none;
+  border: 3px solid $primary-white-color;
+  padding: 1rem 3rem;
+  color: $primary-white-color;
+  font-family: $secondary-font-stack;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
