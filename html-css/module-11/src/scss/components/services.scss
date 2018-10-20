@@ -17,32 +17,22 @@
 .service__icon {
   &::before {
     @include pseudo($display: inline-block);
-    height: 4rem;
-    width: 4rem;
+    height: 3.2rem;
+    width: 3.2rem;
     left: 0;
     top: 0;
     position: absolute;
   }
-  &--alarm::before {
-    background: url(../img/icons/alarm.svg) no-repeat center;
-  }
-  &--graph::before {
-    background: url(../img/icons/graph.svg) no-repeat center;
-  }
-  &--pc::before {
-    background: url(../img/icons/computer.svg) no-repeat center;
-  }
-  &--book::before {
-    background: url(../img/icons/book.svg) no-repeat center;
-  }
-  &--house::before {
-    background: url(../img/icons/home.svg) no-repeat center;
-  }
-  &--scope::before {
-    background: url(../img/icons/image.svg) no-repeat center;
-  }
-
 }
+
+$icons: alarm, graph, computer, book, home, scope;
+
+@include generate-pseudo-icons(
+    'service__icon--',
+    $icons,
+    '../img/icons/icon-',
+    'svg'
+);
 
 .service-content__text {
   color: #999999;

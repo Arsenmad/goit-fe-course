@@ -612,7 +612,7 @@ main header {
 .section-header__title {
   display: block;
   text-align: center;
-  font-family: 'Kaushan Script', cursive;
+  font-family: "Kaushan Script", cursive;
   font-size: 2.4rem;
   margin: 0;
   margin-bottom: 2rem;
@@ -656,35 +656,35 @@ main header {
 .service__icon::before {
   display: inline-block;
   content: "";
-  height: 4rem;
-  width: 4rem;
+  height: 3.2rem;
+  width: 3.2rem;
   left: 0;
   top: 0;
   position: absolute;
 }
 
 .service__icon--alarm::before {
-  background: url(../img/icons/alarm.svg) no-repeat center;
+  background-image: url(../img/icons/icon-alarm.svg);
 }
 
 .service__icon--graph::before {
-  background: url(../img/icons/graph.svg) no-repeat center;
+  background-image: url(../img/icons/icon-graph.svg);
 }
 
-.service__icon--pc::before {
-  background: url(../img/icons/computer.svg) no-repeat center;
+.service__icon--computer::before {
+  background-image: url(../img/icons/icon-computer.svg);
 }
 
 .service__icon--book::before {
-  background: url(../img/icons/book.svg) no-repeat center;
+  background-image: url(../img/icons/icon-book.svg);
 }
 
-.service__icon--house::before {
-  background: url(../img/icons/home.svg) no-repeat center;
+.service__icon--home::before {
+  background-image: url(../img/icons/icon-home.svg);
 }
 
 .service__icon--scope::before {
-  background: url(../img/icons/image.svg) no-repeat center;
+  background-image: url(../img/icons/icon-scope.svg);
 }
 
 .service-content__text {
